@@ -3,15 +3,19 @@ title: "Final Report"
 author: "Perseverance"
 date: "24 06 2021"
 output:
-  pdf_document: default
-  word_document: default
   html_document: default
+  word_document: default
+  pdf_document: default
 ---
 
 ## PERSEVERANCE
+
 Group Member:
+
 Serhat Beyaz KÖROĞLU
+
 Zeynep Beyza BÖREKÇİ
+
 Büşra GÖRER
 
 
@@ -19,12 +23,18 @@ Büşra GÖRER
 
 
 • Project Description
+
   • Project goal & social problem addressed
+  
 • Project data 
+
 • Actions, Results and Discussion,Conclusion
+
 • url address of the project
+
 • References
-• References
+
+• Appendix
 
 ---
 
@@ -70,19 +80,32 @@ First of all, we discussed these two behaviors and evaluated them separately.
 
 Important Note: Since Kariyet.net makes this evaluation in the light of certain limitations, we have limited the students' preferences in certain standards in order to ensure the consistency of the data. In addition to these, we made additional limitations to make the study meaningful. 
 
-	1. Employers’ Choices
+---
+
+1. Employers’ Choices
+	
+	
 We obtained the employer preferences from the data made by Kariyer.net. The “Employer Interest Index” published by Turkey's leading employment platform Kariyer.net in 2020 sheds light on this problem. In this study, Kariyer.net analyzed 200 million transactions of 486,000 employer users who looking for new employees in the last 10 years. It then tried to make sense of these movements by matching them with the information on the candidates' resumes. It determined the rate of employment of graduates in the first 2 years following university graduation, and which university or department graduates were more frequently interested in by employers. 
-	1.1.  Employer Interest Index
+
+
+1.1.  Employer Interest Index
+	
+	
 The standards that Kariyet.net takes into account when determining the index:
 
 •	Certain criteria were determined for university graduates who are among Kariyer.net members, and the data of 2 million people who fulfill these criteria were analyzed in the study.
+
 •	In the study, 200 million activities of 88 thousand employer users out of 486 thousand employers who were members of Kariyer.net and used Kariyer.net between 2009-2019 were examined.
+
 
 Excluded from the data considered in the study:
 
 •	Within the scope of the study, the university and department from which the graduate candidates graduated at the undergraduate level,
+
 •	The first section that double major candidates add to their career.net resume,
+
 •	The most up-to-date CVs of candidates with more than one CV were taken into account.
+
 
 Groups not included in the study: 
 
@@ -97,55 +120,101 @@ Groups not included in the study:
 
 •	Candidates who graduated from departments or universities with less than 60 graduates: These universities and departments were excluded in case the universities and/or departments with a small number of graduates could affect the results dramatically.
 
-	1.2. Outcomes of Employer Preferences
-1.	Location: Employers prefer students from universities in their region.
-2.	Foreign Language: In addition to English as a foreign language, they prefer universities that provide education in French and German.
-3.	They prefer well-established universities.
+1.2. Outcomes of Employer Preferences
+	
+-	Location: Employers prefer students from universities in their region.
+
+-	Foreign Language: In addition to English as a foreign language, they prefer universities that provide education in French and German.
+
+-	They prefer well-established universities.
+
+---
 
 2. Students' Choices
+
 Important Note: Since Kariyet.net makes this evaluation in the light of certain limitations, we have limited the students' preferences in certain standards in order to ensure the consistency of the data. In addition to these, we made additional limitations for the study to be meaningful.
-We evaluated the university preferences of the students. In the light of these data, we created the "Student Interest Index". This is how we did it:
-•	We pulled the data of the university preference results of the students from the internet.
+
+We evaluated the university preferences of the students. In the light of these data, we created the "Student Interest Index". 
+
+This is how we did it:
+
+•	We pulled the data of the university preference results of the students from the 
+
 •	We divided it into universities one by one, and determined the student interest index of each university.
+
 •	We divided it into sections one by one, and determined the student interest index of each section.
 
-	2.1.  Student Interest Index
 
-	Groups not included in the study:
+
+2.1.  Student Interest Index
+	
+
+Groups not included in the study:
+
 •	Candidates with open education and associate degree degrees: In order to make comparisons and results more reliable, open and distance education graduates with education levels other than undergraduate are excluded.
+
 •	Students who prefer Medicine and Dentistry departments.
+
 •	Interest index of departments: Since most popular departments are in universities, we have taken into account the top 25 rankings of that department in order not to decrease the index average and to get a more accurate value.
 
+
 In addition to these, in order to obtain meaningful data:
+
 •	We have identified 23 universities that are at the forefront
+
 •	We have identified 15 departments that are at the forefront
+
 
 We evaluated the data on this criteria.
 
-	2.2. Outcomes of Student Preferences
-•	Location: Students choose their location between east-west options. They prefer universities in the West and South.
-•	Foreign Language: English foreign language education has a high importance in student preferences. They also prefer universities that offer education in French and German.
-•	They prefer well-established and prestigious universities.
+
+
+2.2. Outcomes of Student Preferences
+	
+	
+-	Location: Students choose their location between east-west options. They prefer universities in the West and South.
+
+-	Foreign Language: English foreign language education has a high importance in student preferences. They also prefer universities that offer education in French and German.
+
+-	They prefer well-established and prestigious universities.
+
 
 
 3. Comparison of Preferences
 
 By comparing Employer Preferences and Student preferences, similarities and differences are revealed. By comparing the two data, it is aimed to help students make more effective university choices.
-	3.1. Outcomes of Comparison of Preferences
+	
+	
+3.1. Outcomes of Comparison of Preferences
+
+
 •	Location: The most important factor is the preference of employers and the preference of students in the regions closer to them. It was determined that the students did not make a choice in the light of this information in their preferences. Especially since Istanbul hosts 28.15% of the companies in Turkey, it is a great advantage to study at a university in this city.
+
 	Workplace Rates:
+	
 1-	Istanbul:		28.15
+
 2-	Ankara:		7.74
+
 3-	Izmir:		7.00
+
 4-	Bursa:		4.16
+
 5-	Antalya:		3.86
+
 6-	Izmit:		2.49
+
 •	Foreign Language: We said that employers are looking for a foreign language. Students prefer foreign language education at least as much as employers. In addition to English, French and German languages also bring students to the fore.
+
 •	Well-established and prestigious Universities are preferred by both parties.
+
+---
 
 ## url address of the project
 
 [url address of the project](https://koroglubeyaz.github.io/Perseverance.html){target="_blank"}
+
+---
 
 ## CONCLUSION
 
